@@ -1,2 +1,1 @@
-# Contactless Biometric Identification and spoof detection
-
+Contactless Fingerprint Recognition using Deep Learning This project implements a touch-free biometric system using a Raspberry Pi 4B and Arducam IMX519. By fine-tuning a VGG-16 CNN, the system extracts discriminative features directly from camera-captured images, bypassing the hygiene and distortion issues of traditional scanners. The end-to-end pipeline handles preprocessing, feature learning, and spoof detection for high-security, contactless authentication.
